@@ -28,7 +28,7 @@
   
         <img src="图片地址" />
 
-markdown的一些语法：
+# markdown的一些语法：
 ## 单行代码：
 
 `<img src="图片地址" />`
