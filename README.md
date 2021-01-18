@@ -32,8 +32,6 @@ markdown的一些语法：
 
 `<img src="图片地址" />`
 
-        <a href="http://baidu.com">百度首页</a>
-
     <h1>标题文本</h1>
 
 多行代码：
@@ -57,8 +55,6 @@ markdown的一些语法：
 ![辣眼睛](https://inews.gtimg.com/newsapp_bt/0/13034037595/1000)
 
 是胡不是霍,是霍躲不过 
-
-![是胡不是霍是霍躲不过](https://5b0988e595225.cdn.sohucs.com/images/20170719/8899e07de3e845e98f749309cb279223.gif)
 
 ![是胡不是霍是霍躲不过](https://tse3-mm.cn.bing.net/th/id/OIP.14Id7RcZl0040KPxVVKmJwHaEJ?w=309&h=180&c=7&o=5&pid=1.7)
 
