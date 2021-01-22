@@ -212,4 +212,4 @@ href的取值：
 
 #### 效果展示：
 
-![image-20210121232634740](../../../AppData/Roaming/Typora/typora-user-images/image-20210121232634740.png)
+![image-20210121232634740](image\小说排行榜.png)
